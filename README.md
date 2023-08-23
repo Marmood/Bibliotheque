@@ -38,8 +38,4 @@ L'**Application de Gestion de Bibliothèque** est une solution complète dévelo
 
 ## Auteur
 
-[Votre Nom]
-
-## Licence
-
-Ce projet est sous licence [MIT](LICENSE).
+Lenoir Yohan
