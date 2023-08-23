@@ -1,6 +1,6 @@
 # Application de Gestion de Bibliothèque
 
-L'**Application de Gestion de Bibliothèque** est une solution complète développée en PHP pour permettre aux bibliothécaires de gérer efficacement le catalogue de livres ainsi que les emprunts. Elle offre des fonctionnalités avancées pour simplifier la gestion d'une bibliothèque avec une base de données importante.
+L'**Application de Gestion de Bibliothèque** est une solution complète développée en PHP pour permettre aux bibliothécaires de gérer efficacement le catalogue de livres ainsi que les emprunts. Elle offre des fonctionnalités avancées pour simplifier la gestion d'une bibliothèque avec une base de données importante de 20 000 livres.
 
 ## Fonctionnalités
 
